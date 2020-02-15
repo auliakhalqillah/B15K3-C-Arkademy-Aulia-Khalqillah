@@ -18,7 +18,7 @@ def countChar(input_string,c):
         print("output\t\t: Not Found!")
 
 # Main program
-string = str(input("Type the char\t\t\t\t:"))
+string = str(input("Type the string\t\t\t\t:"))
 char = str(input("What char do you want to find?\t\t:"))
 print("String\t\t:",string)
 print("Char\t\t:",char)
